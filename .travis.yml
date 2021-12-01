@@ -1,2 +1,4 @@
-language: java
-https://app.travis-ci.com/justTil/testTravis.svg?branch=main
+language: ruby
+rvm:
+  - 2.2
+  - jruby
